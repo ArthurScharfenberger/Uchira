@@ -26,11 +26,11 @@ header .bg-gradient {
 
 header .header-border {
     display: flex;
-    border-bottom: rgba(255,255,255,.25) 1px solid;
+    border-bottom: rgba(255,255,255,.25) 2px solid;
 }
 
 header #logo {
-    width: 300px;
+    width: 400px;
     color: #ec0b09;
     line-height: 60px;
     text-align: center;
